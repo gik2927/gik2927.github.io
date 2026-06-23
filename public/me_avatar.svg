@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">Security portfolio avatar placeholder</title>
+  <desc id="desc">Abstract shield and circuit avatar placeholder</desc>
+  <rect width="256" height="256" rx="32" fill="#0f0f0f" />
+  <path d="M128 36 58 66v48c0 48 29 88 70 106 41-18 70-58 70-106V66l-70-30Z" fill="#101f22" stroke="#5aedfb" stroke-width="8" />
+  <path d="M92 117h72M92 145h72M109 89h38" stroke="#fcff40" stroke-width="10" stroke-linecap="round" />
+  <circle cx="92" cy="117" r="8" fill="#eb152b" />
+  <circle cx="164" cy="145" r="8" fill="#eb152b" />
+  <path d="M80 197h96" stroke="#5aedfb" stroke-width="8" stroke-linecap="round" opacity=".7" />
+</svg>

@@ -1,0 +1,605 @@
+{
+  "basics": {
+    "name": "4THêNē",
+    "label": "An Aspiring White Hacker",
+    "image": "/icon.png",
+    "email": "gik2927@gmail.com",
+    "phone": "",
+    "url": "https://gik2927.github.io",
+    "summary": [
+      "I'm a student studying security.",
+      "I'm mostly web-hacking."
+    ],
+    "theme": "cyber",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Seoul",
+      "countryCode": "KR",
+      "region": "South Korea"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "4THêNē",
+        "url": "https://github.com/gik2927"
+      },
+      {
+        "network": "Discord",
+        "username": "ingkukang",
+        "url": "https://discord.com/users/ingkukang"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "CVD·VDP 시범사업",
+      "position": "참가",
+      "url": "",
+      "startDate": "2026-06-01",
+      "endDate": null,
+      "dateLabel": "2026.6 - Present",
+      "summary": "",
+      "highlights": [],
+      "skills": []
+    },
+    {
+      "name": "CVE 2026-48061",
+      "position": "",
+      "url": "",
+      "startDate": "2026-06-01",
+      "endDate": "2026-06-01",
+      "dateLabel": "2026.6",
+      "summary": "",
+      "highlights": [],
+      "skills": []
+    },
+    {
+      "name": "RIFFHACK: Black Market Break-In CTF",
+      "position": "25위",
+      "url": "",
+      "startDate": "2026-06-01",
+      "endDate": "2026-06-01",
+      "dateLabel": "2026.6",
+      "summary": "",
+      "highlights": [],
+      "skills": []
+    },
+    {
+      "name": "antislopctf",
+      "position": "12위",
+      "url": "",
+      "startDate": "2026-06-01",
+      "endDate": "2026-06-01",
+      "dateLabel": "2026.6",
+      "summary": "",
+      "highlights": [],
+      "skills": []
+    },
+    {
+      "name": "hypersonicctf",
+      "position": "20위",
+      "url": "",
+      "startDate": "2026-06-01",
+      "endDate": "2026-06-01",
+      "dateLabel": "2026.6",
+      "summary": "",
+      "highlights": [],
+      "skills": []
+    },
+    {
+      "name": "dalctf",
+      "position": "12위",
+      "url": "",
+      "startDate": "2026-06-01",
+      "endDate": "2026-06-01",
+      "dateLabel": "2026.6",
+      "summary": "",
+      "highlights": [],
+      "skills": []
+    },
+    {
+      "name": "Redlabs",
+      "position": "참여",
+      "url": "",
+      "startDate": "2026-04-01",
+      "endDate": "2026-06-01",
+      "dateLabel": "2026.4 - 2026.6",
+      "summary": "",
+      "highlights": [],
+      "skills": []
+    },
+    {
+      "name": "DEF CON",
+      "position": "32위",
+      "url": "",
+      "startDate": "2026-05-01",
+      "endDate": "2026-05-01",
+      "dateLabel": "2026.5",
+      "summary": "",
+      "highlights": [],
+      "skills": []
+    },
+    {
+      "name": "0xV01D CTF",
+      "position": "100위",
+      "url": "",
+      "startDate": "2026-05-01",
+      "endDate": "2026-05-01",
+      "dateLabel": "2026.5",
+      "summary": "",
+      "highlights": [],
+      "skills": []
+    },
+    {
+      "name": "trxctf2026",
+      "position": "11위",
+      "url": "",
+      "startDate": "2026-04-01",
+      "endDate": "2026-04-01",
+      "dateLabel": "2026.4",
+      "summary": "",
+      "highlights": [],
+      "skills": []
+    },
+    {
+      "name": "헥테온 2026",
+      "position": "예선 41위",
+      "url": "",
+      "startDate": "2026-04-01",
+      "endDate": "2026-04-01",
+      "dateLabel": "2026.4",
+      "summary": "",
+      "highlights": [],
+      "skills": []
+    },
+    {
+      "name": "KalmarCTF 2026",
+      "position": "149위",
+      "url": "",
+      "startDate": "2026-03-01",
+      "endDate": "2026-03-01",
+      "dateLabel": "2026.3",
+      "summary": "",
+      "highlights": [],
+      "skills": []
+    },
+    {
+      "name": "DiceCTF 2026 Quals",
+      "position": "46위",
+      "url": "",
+      "startDate": "2026-03-01",
+      "endDate": "2026-03-01",
+      "dateLabel": "2026.3",
+      "summary": "",
+      "highlights": [],
+      "skills": []
+    },
+    {
+      "name": "CODEGATE 2026",
+      "position": "149위",
+      "url": "",
+      "startDate": "2026-03-01",
+      "endDate": "2026-03-01",
+      "dateLabel": "2026.3",
+      "summary": "",
+      "highlights": [],
+      "skills": []
+    },
+    {
+      "name": "AI_TOP_100 (CAMPUS)",
+      "position": "본선 진출 (Top 100)",
+      "url": "",
+      "startDate": "2026-03-01",
+      "endDate": "2026-03-01",
+      "dateLabel": "2026.3",
+      "summary": "",
+      "highlights": [],
+      "skills": []
+    },
+    {
+      "name": "picoCTF 2026",
+      "position": "21위",
+      "url": "",
+      "startDate": "2026-03-01",
+      "endDate": "2026-03-01",
+      "dateLabel": "2026.3",
+      "summary": "",
+      "highlights": [],
+      "skills": []
+    },
+    {
+      "name": "EHAX CTF 2026",
+      "position": "39위",
+      "url": "",
+      "startDate": "2026-02-01",
+      "endDate": "2026-02-01",
+      "dateLabel": "2026.2",
+      "summary": "",
+      "highlights": [],
+      "skills": []
+    },
+    {
+      "name": "BITSCTF 2026",
+      "position": "4위",
+      "url": "",
+      "startDate": "2026-02-01",
+      "endDate": "2026-02-01",
+      "dateLabel": "2026.2",
+      "summary": "",
+      "highlights": [],
+      "skills": []
+    },
+    {
+      "name": "제5회 한양 해킹방어대회 HCTF",
+      "position": "36위",
+      "url": "",
+      "startDate": "2026-02-01",
+      "endDate": "2026-02-01",
+      "dateLabel": "2026.2",
+      "summary": "",
+      "highlights": [],
+      "skills": []
+    },
+    {
+      "name": "INC0GNITO CTF 2026",
+      "position": "33위",
+      "url": "",
+      "startDate": "2026-02-01",
+      "endDate": "2026-02-01",
+      "dateLabel": "2026.2",
+      "summary": "",
+      "highlights": [],
+      "skills": []
+    },
+    {
+      "name": "UofTCTF 2026",
+      "position": "25위",
+      "url": "",
+      "startDate": "2026-01-01",
+      "endDate": "2026-01-01",
+      "dateLabel": "2026.1",
+      "summary": "",
+      "highlights": [],
+      "skills": []
+    },
+    {
+      "name": "hxp39ctf",
+      "position": "31위",
+      "url": "",
+      "startDate": "2025-12-01",
+      "endDate": "2025-12-01",
+      "dateLabel": "2025.12",
+      "summary": "",
+      "highlights": [],
+      "skills": []
+    },
+    {
+      "name": "holyshield CTF 2025",
+      "position": "10위",
+      "url": "",
+      "startDate": "2025-12-01",
+      "endDate": "2025-12-01",
+      "dateLabel": "2025.12",
+      "summary": "",
+      "highlights": [],
+      "skills": []
+    },
+    {
+      "name": "msgctf",
+      "position": "11위",
+      "url": "",
+      "startDate": "2025-11-01",
+      "endDate": "2025-11-01",
+      "dateLabel": "2025.11",
+      "summary": "",
+      "highlights": [],
+      "skills": []
+    },
+    {
+      "name": "화이트햇 2025",
+      "position": "예선 21위",
+      "url": "",
+      "startDate": "2025-10-01",
+      "endDate": "2025-10-01",
+      "dateLabel": "2025.10",
+      "summary": "",
+      "highlights": [],
+      "skills": []
+    },
+    {
+      "name": "2025년 충남 IT Hackathon",
+      "position": "정보보안 입문 강의 수료",
+      "url": "",
+      "startDate": "2025-09-27",
+      "endDate": "2025-09-27",
+      "dateLabel": "2025.9.27",
+      "summary": "",
+      "highlights": [],
+      "skills": []
+    },
+    {
+      "name": "2025년 충남 IT Hackathon",
+      "position": "웹 취약점 기반 침투 테스트 수료",
+      "url": "",
+      "startDate": "2025-09-27",
+      "endDate": "2025-09-27",
+      "dateLabel": "2025.9.27",
+      "summary": "",
+      "highlights": [],
+      "skills": []
+    },
+    {
+      "name": "CrewCTF 2025",
+      "position": "24위",
+      "url": "",
+      "startDate": "2025-09-01",
+      "endDate": "2025-09-01",
+      "dateLabel": "2025.9",
+      "summary": "",
+      "highlights": [],
+      "skills": []
+    },
+    {
+      "name": "2025 충남 IT Thon",
+      "position": "초급부문 우승",
+      "url": "",
+      "startDate": "2025-09-01",
+      "endDate": "2025-09-01",
+      "dateLabel": "2025.9",
+      "summary": "",
+      "highlights": [],
+      "skills": []
+    },
+    {
+      "name": "ion CTF Team Fermion",
+      "position": "참여",
+      "url": "",
+      "startDate": "2025-09-01",
+      "endDate": null,
+      "dateLabel": "2025.9 - Present",
+      "summary": "",
+      "highlights": [],
+      "skills": []
+    },
+    {
+      "name": "2025 사이버 공격 방어 대회",
+      "position": "참가",
+      "url": "",
+      "startDate": "2025-08-16",
+      "endDate": "2025-08-16",
+      "dateLabel": "2025.8.16",
+      "summary": "",
+      "highlights": [],
+      "skills": []
+    },
+    {
+      "name": "제3회 2025 충청권 사이버보안 경진대회",
+      "position": "참가",
+      "url": "",
+      "startDate": "2025-07-31",
+      "endDate": "2025-07-31",
+      "dateLabel": "2025.7.31",
+      "summary": "",
+      "highlights": [],
+      "skills": []
+    },
+    {
+      "name": "PATCHDAY #824",
+      "position": "Bugbounty",
+      "url": "",
+      "startDate": "2025-07-01",
+      "endDate": "2025-07-01",
+      "dateLabel": "2025.7",
+      "summary": "",
+      "highlights": [],
+      "skills": []
+    },
+    {
+      "name": "KISA 아카데미 버그헌팅 실습훈련 팀 프로젝트 6차",
+      "position": "수료",
+      "url": "",
+      "startDate": "2025-07-16",
+      "endDate": "2025-07-18",
+      "dateLabel": "2025.7.16 - 2025.7.18",
+      "summary": "",
+      "highlights": [],
+      "skills": []
+    },
+    {
+      "name": "드림핵 서초 핵카데미",
+      "position": "우수 수료",
+      "url": "",
+      "startDate": "2025-06-27",
+      "endDate": "2025-09-21",
+      "dateLabel": "2025.6.27 - 2025.9.21",
+      "summary": "",
+      "highlights": [],
+      "skills": []
+    },
+    {
+      "name": "제3회 전라남도 웹 취약점 경진 대회",
+      "position": "본선 진출",
+      "url": "",
+      "startDate": "2025-06-01",
+      "endDate": "2025-06-01",
+      "dateLabel": "2025.6",
+      "summary": "",
+      "highlights": [],
+      "skills": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "SangMyung University",
+      "url": "",
+      "area": "Information Security",
+      "studyType": "Student",
+      "startDate": "2025-03-02",
+      "endDate": null,
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Dreamhack Hackademy",
+      "url": "",
+      "area": "Cyber Security",
+      "studyType": "Student",
+      "startDate": "2026-06-02",
+      "endDate": "2026-09-03",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Kisa Academy",
+      "url": "",
+      "area": "Bug Hunting",
+      "studyType": "Student",
+      "startDate": "2026-06-02",
+      "endDate": "2026-09-03",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Git",
+      "level": "Intermediate",
+      "keywords": ["Version Control"]
+    },
+    {
+      "name": "GitHub",
+      "level": "Intermediate",
+      "keywords": ["Version Control", "Collaboration"]
+    },
+    {
+      "name": "Node",
+      "level": "Intermediate",
+      "keywords": ["Backend", "JavaScript"]
+    },
+    {
+      "name": "HTML",
+      "level": "Intermediate",
+      "keywords": ["Frontend"]
+    },
+    {
+      "name": "CSS",
+      "level": "Intermediate",
+      "keywords": ["Frontend"]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Intermediate",
+      "keywords": ["Frontend"]
+    },
+    {
+      "name": "C",
+      "level": "Intermediate",
+      "keywords": ["Frontend"]
+    },
+    {
+      "name": "Python",
+      "level": "Intermediate",
+      "keywords": ["Frontend"]
+    },
+    {
+      "name": "Docker",
+      "level": "Intermediate",
+      "keywords": ["Frontend"]
+    },
+    {
+      "name": "Linux",
+      "level": "Intermediate",
+      "keywords": ["Frontend"]
+    },
+    {
+      "name": "Kali Linux",
+      "level": "Intermediate",
+      "keywords": ["Frontend"]
+    },
+    {
+      "name": "Burp Suite",
+      "level": "Intermediate",
+      "keywords": ["Frontend"]
+    },
+    {
+      "name": "Metasploit",
+      "level": "Intermediate",
+      "keywords": ["Frontend"]
+    }
+  ],
+  "reports": [
+    {
+      "date": "2026.6",
+      "type": "CVE",
+      "title": "CVE-2026-48061",
+      "status": "Published",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "date": "2026.5",
+      "type": "Bug",
+      "title": "Python-multipart 0.0.28",
+      "status": "Reported",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "date": "2025.7",
+      "type": "Bug",
+      "title": "PATCHDAY #824",
+      "status": "Reported",
+      "url": "",
+      "summary": ""
+    }
+  ],
+  "teams": [
+    {
+      "name": "Fermion",
+      "role": "CTF Team",
+      "period": "2025.9 - Present",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "name": "Redlabs",
+      "role": "Research Team",
+      "period": "2026.4 - 2026.6",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "name": "Team Nicaea",
+      "role": "CTF Team",
+      "period": "2026.5 - Present",
+      "url": "",
+      "summary": ""
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": [
+    {
+      "name": "My Wargames",
+      "isActive": true,
+      "description": "These are homemade wargame problems.",
+      "highlights": [
+      ],
+      "url": "https://github.com/gik2927/wargames"
+    },
+    {
+      "name": "Vulnable Page",
+      "isActive": true,
+      "description": "Site I made with my team for Bug Bounty practice",
+      "highlights": [
+      ],
+      "url": "https://github.com/gik2927/smumain-"
+    }
+  ]
+}

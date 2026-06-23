@@ -1,0 +1,13 @@
+---
+import Section from "../Section.astro";
+
+import { basics } from "@cv";
+const { summary } = basics;
+const summaryLines = Array.isArray(summary) ? summary : [summary];
+---
+
+<Section title="About">
+	<div class="space-y-1">
+		{summaryLines.map((line) => <p>{line}</p>)}
+	</div>
+</Section>

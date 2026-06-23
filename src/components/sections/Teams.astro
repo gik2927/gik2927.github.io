@@ -1,0 +1,32 @@
+---
+import Section from "../Section.astro";
+
+import { teams } from "@cv";
+---
+
+<Section className={Astro.props.className} title="Teams">
+	<ul class="flex flex-col gap-3">
+		{
+			teams.map(({ name, role, period, url, summary }) => (
+				<li class="border-skin-hue/20 bg-skin-button-muted/50 rounded-md border p-4">
+					<div class="flex flex-wrap items-center justify-between gap-2">
+						<h4 class="text-base font-medium">
+							{
+								url ? (
+									<a href={url} target="_blank" rel="noopener noreferrer" class="hover:text-skin-hue decoration-dotted underline-offset-[5px] hover:underline">
+										{name}
+									</a>
+								) : (
+									name
+								)
+							}
+						</h4>
+						{period && <span class="text-xs text-skin-muted">{period}</span>}
+					</div>
+					{role && <div class="mt-1 text-sm text-skin-hue">{role}</div>}
+					{summary && <p class="mt-2">{summary}</p>}
+				</li>
+			))
+		}
+	</ul>
+</Section>
