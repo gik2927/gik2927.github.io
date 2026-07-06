@@ -33,6 +33,39 @@
   },
   "work": [
     {
+      "name": "sekeictf",
+      "position": "28위",
+      "url": "",
+      "startDate": "2026-06-01",
+      "endDate": "2026-06-01",
+      "dateLabel": "2026.6",
+      "summary": "",
+      "highlights": [],
+      "skills": []
+    },
+    {
+      "name": "v1tctf",
+      "position": "68위",
+      "url": "",
+      "startDate": "2026-06-01",
+      "endDate": "2026-06-01",
+      "dateLabel": "2026.6",
+      "summary": "",
+      "highlights": [],
+      "skills": []
+    },
+    {
+      "name": "Tracebashctf",
+      "position": "54위",
+      "url": "",
+      "startDate": "2026-06-01",
+      "endDate": "2026-06-01",
+      "dateLabel": "2026.6",
+      "summary": "",
+      "highlights": [],
+      "skills": []
+    },
+    {
       "name": "CVD·VDP 시범사업",
       "position": "참가",
       "url": "",
