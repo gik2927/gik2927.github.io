@@ -55,7 +55,7 @@
       "skills": []
     },
     {
-      "name": "sekeictf",
+      "name": "sekaictf",
       "position": "28위",
       "url": "",
       "startDate": "2026-06-01",
@@ -501,8 +501,8 @@
       "url": "",
       "area": "Cyber Security",
       "studyType": "Student",
-      "startDate": "2026-06-02",
-      "endDate": "2026-09-03",
+      "startDate": "2025-06-02",
+      "endDate": "2025-09-03",
       "score": "",
       "courses": []
     },
@@ -511,8 +511,8 @@
       "url": "",
       "area": "Bug Hunting",
       "studyType": "Student",
-      "startDate": "2026-06-02",
-      "endDate": "2026-09-03",
+      "startDate": "2025-06-02",
+      "endDate": "2025-09-03",
       "score": "",
       "courses": []
     }
@@ -670,6 +670,22 @@
       "highlights": [
       ],
       "url": "https://github.com/gik2927/smumain-"
+    },
+    {
+      "name": "CVE Analyze",
+      "isActive": true,
+      "description": "My Cve Analyze!",
+      "highlights": [
+      ],
+      "url": "https://app.notion.com/p/cve-analyze-3e7b130adfd88018884fecc14ebc9b22"
+    },    
+    {
+      "name": "Write-ups",
+      "isActive": true,
+      "description": "My Write-ups",
+      "highlights": [
+      ],
+      "url": "https://app.notion.com/p/200b130adfd880d889e5e039ee2f40a6"
     }
   ]
 }
